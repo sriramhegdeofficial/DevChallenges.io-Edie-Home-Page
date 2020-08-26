@@ -601,9 +601,7 @@ footer {
 
 @media only screen and (max-width: 1000px) {
     
-   body {
-       background: lightcoral;
-   }
+   
 
     .unhappy-quote {
         
@@ -696,9 +694,7 @@ footer {
 
   @media only screen and (max-width: 680px) {
     
-    body {
-        background: lightgreen;
-    }
+    
 
     header {
         
