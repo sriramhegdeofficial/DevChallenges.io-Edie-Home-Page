@@ -457,6 +457,7 @@ nav .nav-links:hover {
 }
 
 .team-image-column-1-wrapper img {
+    object-fit: cover;
     width: 85%;
     min-width: 180px;
     border-radius: 24px;
@@ -469,6 +470,7 @@ nav .nav-links:hover {
 }
 
 .team-image-column-2-wrapper img {
+    object-fit: cover;
     width: 80%;
     border-radius: 24px;
     margin-bottom: 20px;
@@ -476,6 +478,7 @@ nav .nav-links:hover {
 }
 
 .team-image-column-2-wrapper img.small-image {
+    object-fit: cover;
     width: 65%;
     min-width: 150px;
 }
@@ -510,6 +513,7 @@ nav .nav-links:hover {
 }
  
 .review-user-img {
+    object-fit: cover;
     height: 100%;
     border-radius: 24px;
 }
