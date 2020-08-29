@@ -794,7 +794,9 @@ footer {
     }
 
     .design-image {
-        height: 336px;
+        
+        max-width: 100%;
+        max-height: 400px;
     }
 
     .design-wrapper {
@@ -802,13 +804,18 @@ footer {
         margin-bottom: 10px;
         width: 100%;
         
+        
     }
 
     .design-image-wrapper {
+        
+        
         width: 100%;
         margin: 34px 0px;
-       
+        
     }
+
+    
 
     .move-down {
         position: static;
