@@ -7,7 +7,16 @@
 }
 
 body, html {
-    width: 100%;
+   
+   
+  width: 100%;
+    
+}
+
+html {
+    
+    display: flex;
+    justify-content: center;
 }
 
 :root {
@@ -29,6 +38,8 @@ body, html {
 
 body {
     font-family:  var(--main-poppins-font);
+    max-width: 1600px;
+  
 }
 
 header {
@@ -329,6 +340,7 @@ nav .nav-links:hover {
 
 .design-image {
     max-width: 100%;
+    max-width: 534px;
     height: 534px;
     object-fit: cover;
     background-position: center;
